@@ -1,7 +1,7 @@
 # SALVUS TESTE
 ## LINKS
 
-ACESSE O SITE : https://https://salvus-xi.vercel.app/
+ACESSE O SITE : https://salvus-xi.vercel.app/
 
 repósitório apenas backend: https://github.com/douglas-front/apiSalvus
 
