@@ -44,7 +44,7 @@ passo 5 : rode o comando npm start para iniciar a aplicação.
 
 depois de rodar o comando npm install dito acima, siga os passos.
 
-passo 1 : troque a url da api e coloque a sua dr acordo com as rotas do back end , rota padrão:
+passo 1 : troque a url da api e coloque a sua de acordo com as rotas do back end , rota padrão:
 ( http://localhost:3000/products ). Os links que você tem que trocar se encontram na pasta :
 
 " hooks/useGetProducts.ts no useEffect ",
